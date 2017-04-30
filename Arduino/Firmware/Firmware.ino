@@ -9,7 +9,8 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
+#define GPS_PIN_RX	10
+#define GPS_PIN_TX	11
 
 // =======================Pin Definitions // ===================================
 
